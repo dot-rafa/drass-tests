@@ -1,0 +1,20 @@
+{
+  "productType": "LOAN",
+  "order": {
+    "totalPrice": 110000,
+    "items": [
+      {
+        "name": "Cannondale CAAD Optimo"
+      }
+    ]
+  },
+  "disclosures": [
+    {
+      "type": "E_SIGN",
+      "acceptedAt": "{{timestamp}}",
+      "checksum": "{{checksum}}"
+    }
+  ],
+  "buyerShippingContactID": "{{shippingcontactid}}",
+  "ipAddress": "108.50.167.135"
+}

@@ -1,0 +1,17 @@
+{
+  "productType": "LOAN",
+  "order": {
+    "totalPrice": 110000,
+    "items": [
+      {
+        "name": "Cannondale CAAD Optimo"
+      }
+    ]
+  },
+  "disclosures": [
+    {
+      "type": "SOFT_PULL",
+      "acceptedAt": "{{timestamp}}"
+    }
+  ]
+}

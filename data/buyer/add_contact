@@ -1,0 +1,17 @@
+{
+  "address": {
+    "address1": "100 FOLLIS AVE",
+    "address2": "",
+    "locality": "TORONTO",
+    "region": "ON",
+    "postalCode": "M6G1S6",
+    "country": "CA"
+  },
+  "name": {
+    "additionalName": "",
+    "givenName": "{{given_name}}",
+    "familyName": "{{family_name}}"
+  },
+  "email": "{{email}}",
+  "phone": "{{phone_number}}"
+}

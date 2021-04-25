@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Bread API Test Suite" thread-count="10" parallel="false">
+    <listeners>
+        <listener class-name="testUtils.Listeners.TestListener"/>
+        <listener class-name="testUtils.Listeners.TestTransformer"/>
+    </listeners>
+
+    <test name="BreadAPITests">
+        <classes>
+            <class name="tests.PaymentAgreementTests"/>
+        </classes>
+    </test>
+</suite>

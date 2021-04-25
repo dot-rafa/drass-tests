@@ -1,0 +1,16 @@
+{
+  "name": {
+    "givenName": "{{given_name}}",
+    "familyName": "{{family_name}}"
+  },
+  "email": "{{email}}",
+  "phone": "{{phone_number}}",
+  "address": {
+    "address1": "95 KENMOUNT RD",
+    "address2": "",
+    "locality": "ST JOHNS",
+    "region": "NL",
+    "postalCode": "A1B3P8",
+    "country": "CA"
+  }
+}

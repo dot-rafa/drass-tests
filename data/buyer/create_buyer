@@ -1,0 +1,11 @@
+{
+  "identity": {
+    "birthDate": "{{birthdate}}",
+    "name": {
+      "givenName": "{{given_name}}",
+      "familyName": "{{family_name}}"
+    },
+    "email": "{{email}}",
+    "phone": "{{phone_number}}"
+  }
+}

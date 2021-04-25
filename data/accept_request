@@ -1,0 +1,7 @@
+{
+	"acknowledgement": {
+		"buyer_metadata": "{{jwt_token}}",
+		"acknowledged_at": "2020-09-29T17:51:48.452Z",
+		"checksum": "f1d6d374-825f-436e-bc5b-9d21ef47240b:613Bj+tNmAnWOoZVwx4iwQ=="
+	}
+}

@@ -1,0 +1,23 @@
+{
+  "identity": {
+    "birthDate": "{{birthdate}}",
+    "name": {
+      "additionalName": "",
+      "givenName": "{{given_name}}",
+      "familyName": "{{family_name}}"
+
+    },
+    "email": "{{email}}",
+    "phone": "{{phone_number}}"
+  },
+  "languagePreference": "en-ca",
+  "employment": {
+    "type": "EMPLOYED",
+    "companyName": "BREAD PAYMENTS",
+    "companyAddress": "123 MAIN ST, NEW YORK, NY 10010",
+    "occupation": "ENGINEER",
+    "annualIncome": 10000,
+    "currency": "CAD",
+    "occupationDescription": ""
+  }
+}

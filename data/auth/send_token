@@ -1,0 +1,14 @@
+{
+  "phone": "{{phone_number}}",
+  "disclosures": [
+    {
+      "type": "SMS",
+      "acceptedAt": "{{timestamp}}"
+    }
+  ],
+  "uat": {
+    "auth": {
+      "token": "1234"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+	"buyerId": "8473aea6-cfb2-42e5-a583-7ec5776234c5",
+	"merchantId": "59501d55-66ac-443e-a9f7-472de5783b4a",
+	"application_id": "5bb72e47-dd72-4301-843a-9c3f0db9e03d",
+	"program_id": "2cc27de0-cdf8-11ea-87d0-0242ac130003",
+	"expires_at": "2021-11-01T22:08:41+00:00",
+	"product_type": "LOAN",
+	"terms": {
+		"original_principal": {
+			"currency": "CAD",
+			"value": "410000"
+		},
+		"interval": "MONTHLY",
+		"rate": "0",
+		"length": "24"
+	}
+}
